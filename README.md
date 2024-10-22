@@ -1,21 +1,20 @@
 # Лабораторная работа №2: Основа верстки
 
-- _Выполнил:_ Поправко
-- _Язык программирования:_ Java
+- Выполнила: Герасименко Ксения
+- Язык программирования: Java
 
 ## Описание приложения
-Приложение состоит из четырех экранов и переходит на разные активити. Для запуска проекта следуйте разделу ["Как собрать проект?"](##Как-собрать-проект).
+Приложение состоит из четырех экранов и переходит на разные 'Activity'. Для запуска проекта следуйте разделу ["Как собрать проект?"](##Как-собрать-проект).
 
 ### Внешний вид
 <p align="center">
-    <img src="https://github.com/Made9Ts/laba2/blob/master/image.png" width="250"> 
-    <img src="https://github.com/Made9Ts/laba2/blob/master/image2.png" width="250">
-    <img src="https://github.com/Made9Ts/laba2/blob/master/image3.png" width="250">
-    <img src="https://github.com/Made9Ts/laba2/blob/master/image4.png" width="250">
+    <img src="https://github.com/user-attachments/assets/4b491af3-50da-4983-9ad3-b53aece85781" width="250"> 
+    <img src="https://github.com/user-attachments/assets/c00a9311-1063-43b7-9989-c22209169d0d" width="250">
+    <img src="https://github.com/user-attachments/assets/6e2dbeda-875c-4603-a6e3-d764bd6611a6" width="250">
+    <img src="https://github.com/user-attachments/assets/5efc10ab-c255-4ed2-a09b-e454a1e0fbf9" width="250">
 </p> 
 
 ## <a id="Как-собрать-проект">Как собрать проект?</a>
-_Описан один из возможных способов:_
 1. Скачать ZIP проекта:
     - Клик на зеленую кнопку "<> Code".
     - Клик на "Download ZIP".
